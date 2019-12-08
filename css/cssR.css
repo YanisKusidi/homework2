@@ -1,0 +1,51 @@
+body{
+width: 500px;
+background-color: #EDEDED;
+ margin: 0 auto;
+}
+
+h1{
+  font-size: 40px;
+
+}
+
+.photo {
+  width: 200px;;
+  border: 1px solid black;
+  margin-left: 100px;
+}
+
+.prof{
+    font-family: sans-serif ;
+    border-bottom: 1px solid silver;
+    padding-bottom: 20px;
+}
+
+.mobil{
+  margin-left: 30px;
+
+
+}
+
+ul {
+    border-bottom: 1px solid silver;
+    padding-bottom: 20px;
+}
+
+.adress {
+    margin-left: 30px;
+   
+}
+
+.feedback {
+border-top: 1px solid silver;
+padding-top: 20px;
+
+
+}
+
+.feedback2{
+
+    margin-left: 30px;
+
+}
